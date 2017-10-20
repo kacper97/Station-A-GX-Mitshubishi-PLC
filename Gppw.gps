@@ -117,10 +117,10 @@
 [Gppw]
 	MainFrameWnd:
 		Maximize	TYPE_BOOL	TRUE
-		WindowLeft	TYPE_DWORD10	52
-		WindowTop	TYPE_DWORD10	52
-		WindowRight	TYPE_DWORD10	1492
-		WindowBottom	TYPE_DWORD10	811
+		WindowLeft	TYPE_DWORD10	104
+		WindowTop	TYPE_DWORD10	104
+		WindowRight	TYPE_DWORD10	1544
+		WindowBottom	TYPE_DWORD10	863
 		StatusBar	TYPE_BOOL	TRUE
 	BrowzerWnd:
 		BrowzerFloat	TYPE_BOOL	FALSE
@@ -331,8 +331,8 @@
 		Month	TYPE_DWORD10	10
 		Day	TYPE_DWORD10	20
 		Hour	TYPE_DWORD10	12
-		Minute	TYPE_DWORD10	46
-		Second	TYPE_DWORD10	27
+		Minute	TYPE_DWORD10	51
+		Second	TYPE_DWORD10	25
 [Prg]
 	PrgOptDlg:
 		EditBlock	TYPE_WORD10	0
@@ -567,12 +567,12 @@
 		FrameStat	TYPE_WORD10	0
 		StepNo	TYPE_DWORD10	-1
 		BlockNo	TYPE_WORD10	65535
-		StepPosition	TYPE_DWORD10	0
+		StepPosition	TYPE_DWORD10	84
 		ViewX	TYPE_DWORD10	0
 		ViewY	TYPE_DWORD10	0
 		WindowOrgX	TYPE_DWORD10	0
 		WindowOrgY	TYPE_DWORD10	0
-		CursorPositionX	TYPE_DWORD10	4
+		CursorPositionX	TYPE_DWORD10	3
 		CursorPositionY	TYPE_DWORD10	0
 		MonitorDispType	TYPE_DWORD10	0
 		DispLabelFlag	TYPE_BOOL	FALSE
